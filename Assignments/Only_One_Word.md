@@ -1,4 +1,4 @@
-# ICS 325: Web Application Development
+# Only_One_Word
 ## Assignment 2 — Only One Word
 **Total: 75 Points**
 
